@@ -1,6 +1,6 @@
 -- ============================================================
---   HEALTHCARE ANALYTICS — SQL PORTFOLIO PROJECT
---   Author: [Your Name]
+--   HEALTHCARE ANALYTICS
+--   Author: Sebastian Quesada Gudiño
 --   Database: SQLite
 --   Description: Integrated analysis of hospitals, patients,
 --                and medications across a health system.
