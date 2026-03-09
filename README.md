@@ -109,14 +109,3 @@ hospitals
 5. Click **▶ Execute all** (or press `F5`)
 
 ---
-
-## Project Structure
-
-```
-healthcare-sql-portfolio/
-│
-├── healthcare_project.sql   # Full project: schema + data + 20 queries
-└── README.md                # Project documentation
-```
-
----
