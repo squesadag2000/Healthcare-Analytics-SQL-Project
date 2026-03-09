@@ -36,24 +36,7 @@ hospitals
 | `medications` | Drug catalog with unit costs |
 | `prescriptions` | Medications prescribed per admission |
 
----
-
-## Dataset Summary
-
-| Entity | Count |
-|---|---|
-| Hospitals | 5 |
-| Departments | 15 |
-| Doctors | 15 |
-| Patients | 25 |
-| Admissions | 60 |
-| Diagnoses | 65 |
-| Medications | 20 |
-| Prescriptions | 90 |
-
-**Time range:** January 2023 – August 2024  
-
-
+---  
 ## Analytical Queries (20 total)
 
 ### Level 1 — Basic
