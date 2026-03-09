@@ -91,7 +91,7 @@ hospitals
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Database:** SQLite
 - **Query Tool:** DB Browser for SQLite
@@ -107,7 +107,6 @@ hospitals
 3. Go to the **"Execute SQL"** tab
 4. Open `healthcare_project.sql`, copy all content and paste it
 5. Click **▶ Execute all** (or press `F5`)
-6. Run any individual query by selecting it and pressing `F5`
 
 ---
 
