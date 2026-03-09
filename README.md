@@ -101,7 +101,7 @@ hospitals
 
 ## How to Run
 
-1. Download and install [DB Browser for SQLite](https://sqlitebrowser.org/dl/) *(free, no server needed)*
+1. Download and install [DB Browser for SQLite](https://sqlitebrowser.org/dl/)
 2. Open DB Browser → click **"New Database"** → name it `healthcare.db`
 3. Go to the **"Execute SQL"** tab
 4. Open `healthcare_project.sql`, copy all content and paste it
