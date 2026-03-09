@@ -96,7 +96,6 @@ hospitals
 - **Database:** SQLite
 - **Query Tool:** DB Browser for SQLite
 - **Language:** SQL (compatible with SQLite syntax)
-- **Concepts:** Schema design, foreign keys, aggregations, CTEs, subqueries, window functions
 
 ---
 
