@@ -106,6 +106,6 @@ hospitals
 2. Open DB Browser → click **"New Database"** → name it `healthcare.db`
 3. Go to the **"Execute SQL"** tab
 4. Open `healthcare_project.sql`, copy all content and paste it
-5. Click ** Execute all** (or press `F5`)
+5. Click **Execute all** 
 
 ---
