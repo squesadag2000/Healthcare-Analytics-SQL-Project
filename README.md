@@ -37,25 +37,15 @@ hospitals
 | `prescriptions` | Medications prescribed per admission |
 
 ---  
-## Analytical Queries (20 total)
-
-### Level 1 — Basic
-> SELECT, WHERE, JOIN, GROUP BY, ORDER BY
+## Analytical Queries
 
 | # | Query |
-|---|---|
 | Q1 | Full patient list with insurance type |
 | Q2 | Admission count and average cost by type |
 | Q3 | Hospitals ranked by bed count |
 | Q4 | Most frequent diagnoses with critical case count |
 | Q5 | Most prescribed medications with total revenue |
 | Q6 | Patients admitted through the Emergency department |
-
-### Level 2 — Intermediate
-> CTEs, Subqueries, CASE WHEN, HAVING
-
-| # | Query |
-|---|---|
 | Q7 | Hospital cost classification (High / Medium / Low) |
 | Q8 | Returning patients with lifetime cost analysis |
 | Q9 | Insurance coverage rate by insurance type (CTE) |
@@ -63,12 +53,6 @@ hospitals
 | Q11 | Patients with costs above the system average (Subquery) |
 | Q12 | Diagnosis severity distribution by hospital |
 | Q13 | Most expensive medication categories by total spend |
-
-### Level 3 — Advanced
-> Window Functions, RANK, DENSE_RANK, ROW_NUMBER, LAG, NTILE, SUM OVER
-
-| # | Query |
-|---|---|
 | Q14 | Hospital ranking by revenue and admission volume |
 | Q15 | Patient length of stay grouped into quartiles (NTILE) |
 | Q16 | Monthly admission trend with month-over-month change (LAG) |
@@ -101,7 +85,7 @@ hospitals
 
 ## How to Run
 
-1. Download and install [DB Browser for SQLite](https://sqlitebrowser.org/dl/)
+1. Download and install DB Browser for SQLite
 2. Open DB Browser → click **"New Database"** → name it `healthcare.db`
 3. Go to the **"Execute SQL"** tab
 4. Open `healthcare_project.sql`, copy all content and paste it
